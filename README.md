@@ -34,7 +34,7 @@ the WAF.
                             └──────────────────────────────────────┘
 ```
 
-*(replace with `screenshots/01-network-topology.png` if you draw a diagram)*
+
 
 Two paths to the same application:
 
